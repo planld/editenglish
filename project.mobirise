@@ -22,7 +22,7 @@
         "display7Font": "Rubik",
         "display7Size": 1,
         "display4Font": "Averia Libre",
-        "display4Size": "2",
+        "display4Size": "1.8",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
