@@ -60,12 +60,12 @@
     "": "on",
     "noImageResize": true,
     "robotsSwitcher": true,
-    "sitemapSwitcher": false,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://www.editenglish.co",
     "cookiesAlert": false,
     "gdpr": false,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n"
   },
   "pages": {
     "index.html": {
